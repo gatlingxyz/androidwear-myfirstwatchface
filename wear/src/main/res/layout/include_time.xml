@@ -10,6 +10,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_width="wrap_content"
+        android:textColor="#ff0000"
         android:layout_height="wrap_content" />
 
     <TextView
@@ -19,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignRight="@id/watch_time"
         android:layout_below="@+id/watch_time"
+        android:textColor="#ff0000"
         />
 
 </RelativeLayout>
